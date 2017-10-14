@@ -43,3 +43,13 @@ Voter Tabulation Districts
 - Shapefile: [vtd2010-slice.zip](vtd2010-slice.zip)
 
 ![Minnesota VTD Graph](vtd2010-graph.png)
+
+Census Blocks
+---
+
+- Size: 5,358 units, 12,802 edges
+- ID field: `BLOCK`
+- Adjacency list: [blk2010-graph.csv](blk2010-graph.csv)
+- Shapefile: [blk2010-slice.zip](blk2010-slice.zip)
+
+![Minnesota Blocks Graph](blk2010-graph.png)
