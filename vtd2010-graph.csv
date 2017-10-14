@@ -1,0 +1,335 @@
+VTD1,NAME1,VTD2,NAME2
+270530555,Crystal W-1 P-2,270532336,New Hope P-11
+270530555,Crystal W-1 P-2,270532310,New Hope P-4
+270530555,Crystal W-1 P-2,270532315,New Hope P-5
+270530555,Crystal W-1 P-2,270532295,New Hope P-2
+270532336,New Hope P-11,270532295,New Hope P-2
+270531015,Golden Valley P-6,270531020,Golden Valley P-7
+270531015,Golden Valley P-6,270531025,Golden Valley P-8
+270531015,Golden Valley P-6,270532295,New Hope P-2
+270531005,Golden Valley P-4,270531015,Golden Valley P-6
+270531005,Golden Valley P-4,270531010,Golden Valley P-5
+270531005,Golden Valley P-4,270532295,New Hope P-2
+270530550,Crystal W-1 P-1,270530555,Crystal W-1 P-2
+270530550,Crystal W-1 P-1,270532336,New Hope P-11
+270530550,Crystal W-1 P-1,270531005,Golden Valley P-4
+270530550,Crystal W-1 P-1,270530990,Golden Valley P-2
+270530550,Crystal W-1 P-1,270532315,New Hope P-5
+270530550,Crystal W-1 P-1,270530565,Crystal W-2 P-2
+270530550,Crystal W-1 P-1,270530560,Crystal W-2 P-1
+270530550,Crystal W-1 P-1,270532295,New Hope P-2
+270531000,Golden Valley P-3,270531010,Golden Valley P-5
+270531000,Golden Valley P-3,270531580,Minneapolis W-5 P-6
+270530990,Golden Valley P-2,270531005,Golden Valley P-4
+270530990,Golden Valley P-2,270531000,Golden Valley P-3
+270530990,Golden Valley P-2,270531570,Minneapolis W-5 P-4
+270530985,Golden Valley P-1,270530990,Golden Valley P-2
+270530985,Golden Valley P-1,270532675,Robbinsdale W-4
+270530985,Golden Valley P-1,270531570,Minneapolis W-5 P-4
+270530985,Golden Valley P-1,270531555,Minneapolis W-5 P-1
+270532310,New Hope P-4,270532315,New Hope P-5
+270532310,New Hope P-4,270532320,New Hope P-6
+270532315,New Hope P-5,270532320,New Hope P-6
+270532320,New Hope P-6,270532335,New Hope P-8
+270532320,New Hope P-6,270532325,New Hope P-6E
+270532320,New Hope P-6,270532330,New Hope P-7
+270530565,Crystal W-2 P-2,270532315,New Hope P-5
+270530565,Crystal W-2 P-2,270530570,Crystal W-3 P-1
+270530575,Crystal W-3 P-2,270532315,New Hope P-5
+270530575,Crystal W-3 P-2,270532320,New Hope P-6
+270530575,Crystal W-3 P-2,270530590,Crystal W-4 P-2
+270530400,Brooklyn Park W-W P-2,270532335,New Hope P-8
+270530400,Brooklyn Park W-W P-2,270530590,Crystal W-4 P-2
+270530400,Brooklyn Park W-W P-2,270530405,Brooklyn Park W-W P-3
+270530400,Brooklyn Park W-W P-2,270531250,Maple Grove P-13
+270530400,Brooklyn Park W-W P-2,270530420,Brooklyn Park W-W P-6
+270530400,Brooklyn Park W-W P-2,270532330,New Hope P-7
+270530590,Crystal W-4 P-2,270532320,New Hope P-6
+270530590,Crystal W-4 P-2,270532335,New Hope P-8
+270530405,Brooklyn Park W-W P-3,270530415,Brooklyn Park W-W P-5
+270530405,Brooklyn Park W-W P-3,270530585,Crystal W-4 P-1
+270530415,Brooklyn Park W-W P-5,270530420,Brooklyn Park W-W P-6
+270530560,Crystal W-2 P-1,270530990,Golden Valley P-2
+270530560,Crystal W-2 P-1,270530985,Golden Valley P-1
+270530560,Crystal W-2 P-1,270532675,Robbinsdale W-4
+270530560,Crystal W-2 P-1,270530565,Crystal W-2 P-2
+270530560,Crystal W-2 P-1,270532665,Robbinsdale W-3
+270530560,Crystal W-2 P-1,270532645,Robbinsdale W-1
+270530560,Crystal W-2 P-1,270530570,Crystal W-3 P-1
+270532665,Robbinsdale W-3,270532675,Robbinsdale W-4
+270532645,Robbinsdale W-1,270532665,Robbinsdale W-3
+270532645,Robbinsdale W-1,270532655,Robbinsdale W-2
+270530570,Crystal W-3 P-1,270532315,New Hope P-5
+270530570,Crystal W-3 P-1,270530575,Crystal W-3 P-2
+270530570,Crystal W-3 P-1,270530590,Crystal W-4 P-2
+270530570,Crystal W-3 P-1,270532645,Robbinsdale W-1
+270530570,Crystal W-3 P-1,270530585,Crystal W-4 P-1
+270532655,Robbinsdale W-2,270532675,Robbinsdale W-4
+270532655,Robbinsdale W-2,270532665,Robbinsdale W-3
+270530225,Brooklyn Center P-6,270532645,Robbinsdale W-1
+270530225,Brooklyn Center P-6,270530570,Crystal W-3 P-1
+270530225,Brooklyn Center P-6,270532655,Robbinsdale W-2
+270530225,Brooklyn Center P-6,270530585,Crystal W-4 P-1
+270530225,Brooklyn Center P-6,270530230,Brooklyn Center P-7
+270530225,Brooklyn Center P-6,270531520,Minneapolis W-4 P-4
+270530225,Brooklyn Center P-6,270531505,Minneapolis W-4 P-1
+270530585,Crystal W-4 P-1,270530590,Crystal W-4 P-2
+270530230,Brooklyn Center P-7,270530405,Brooklyn Park W-W P-3
+270530230,Brooklyn Center P-7,270530585,Crystal W-4 P-1
+270530220,Brooklyn Center P-5,270530405,Brooklyn Park W-W P-3
+270530220,Brooklyn Center P-5,270530225,Brooklyn Center P-6
+270530220,Brooklyn Center P-5,270530230,Brooklyn Center P-7
+270530215,Brooklyn Center P-4,270530415,Brooklyn Park W-W P-5
+270530215,Brooklyn Center P-4,270530220,Brooklyn Center P-5
+270530215,Brooklyn Center P-4,270530345,Brooklyn Park W-E P-1
+270530215,Brooklyn Center P-4,270530300,Brooklyn Park W-C P-1
+270530215,Brooklyn Center P-4,270530305,Brooklyn Park W-C P-2
+270530215,Brooklyn Center P-4,270530310,Brooklyn Park W-C P-3
+270532495,Plymouth W-4 P-20,270532510,Plymouth W-4 P-23
+270532495,Plymouth W-4 P-20,270532500,Plymouth W-4 P-21
+270532495,Plymouth W-4 P-20,270532505,Plymouth W-4 P-22
+270532510,Plymouth W-4 P-23,270532515,Plymouth W-4 P-24
+270531265,Maple Grove P-16,270531275,Maple Grove P-18
+270531265,Maple Grove P-16,270531270,Maple Grove P-17
+270531265,Maple Grove P-16,270531300,Maple Grove P-23
+270531260,Maple Grove P-15,270531265,Maple Grove P-16
+270531260,Maple Grove P-15,270532500,Plymouth W-4 P-21
+270531260,Maple Grove P-15,270531300,Maple Grove P-23
+270531255,Maple Grove P-14,270531260,Maple Grove P-15
+270531255,Maple Grove P-14,270532500,Plymouth W-4 P-21
+270532515,Plymouth W-4 P-24,270532520,Plymouth W-4 P-25
+270532305,New Hope P-3S,270532310,New Hope P-4
+270532305,New Hope P-3S,270532520,Plymouth W-4 P-25
+270532300,New Hope P-3N,270532310,New Hope P-4
+270532300,New Hope P-3N,270532515,Plymouth W-4 P-24
+270532300,New Hope P-3N,270532305,New Hope P-3S
+270532300,New Hope P-3N,270532325,New Hope P-6E
+270532300,New Hope P-3N,270532500,Plymouth W-4 P-21
+270532325,New Hope P-6E,270532500,Plymouth W-4 P-21
+270532325,New Hope P-6E,270532330,New Hope P-7
+270532500,Plymouth W-4 P-21,270532510,Plymouth W-4 P-23
+270532500,Plymouth W-4 P-21,270532515,Plymouth W-4 P-24
+270531250,Maple Grove P-13,270531255,Maple Grove P-14
+270531250,Maple Grove P-13,270532500,Plymouth W-4 P-21
+270532465,Plymouth W-2 P-14,270532485,Plymouth W-3 P-18
+270532465,Plymouth W-2 P-14,270532470,Plymouth W-3 P-15
+270532450,Plymouth W-2 P-11,270532465,Plymouth W-2 P-14
+270532450,Plymouth W-2 P-11,270532460,Plymouth W-2 P-13
+270532450,Plymouth W-2 P-11,270532470,Plymouth W-3 P-15
+270532435,Plymouth W-1 P-8,270532450,Plymouth W-2 P-11
+270532435,Plymouth W-1 P-8,270532445,Plymouth W-2 P-10
+270532435,Plymouth W-1 P-8,270532470,Plymouth W-3 P-15
+270532420,Plymouth W-1 P-5,270532435,Plymouth W-1 P-8
+270532420,Plymouth W-1 P-5,270532430,Plymouth W-1 P-7
+270532420,Plymouth W-1 P-5,270532445,Plymouth W-2 P-10
+270532400,Plymouth W-1 P-1,270532420,Plymouth W-1 P-5
+270532400,Plymouth W-1 P-1,270532410,Plymouth W-1 P-3
+270532400,Plymouth W-1 P-1,270532405,Plymouth W-1 P-2
+270532410,Plymouth W-1 P-3,270532435,Plymouth W-1 P-8
+270532410,Plymouth W-1 P-3,270532420,Plymouth W-1 P-5
+270532410,Plymouth W-1 P-3,270532415,Plymouth W-1 P-4
+270531290,Maple Grove P-21,270532400,Plymouth W-1 P-1
+270531290,Maple Grove P-21,270531295,Maple Grove P-22
+270531290,Maple Grove P-21,270531300,Maple Grove P-23
+270531290,Maple Grove P-21,270531355,Medina P-1B
+270532425,Plymouth W-1 P-6,270532435,Plymouth W-1 P-8
+270532425,Plymouth W-1 P-6,270532470,Plymouth W-3 P-15
+270532415,Plymouth W-1 P-4,270532425,Plymouth W-1 P-6
+270532415,Plymouth W-1 P-4,270532470,Plymouth W-3 P-15
+270532415,Plymouth W-1 P-4,270532505,Plymouth W-4 P-22
+270532405,Plymouth W-1 P-2,270532495,Plymouth W-4 P-20
+270532405,Plymouth W-1 P-2,270532410,Plymouth W-1 P-3
+270532405,Plymouth W-1 P-2,270532415,Plymouth W-1 P-4
+270532405,Plymouth W-1 P-2,270532505,Plymouth W-4 P-22
+270531295,Maple Grove P-22,270531300,Maple Grove P-23
+270530345,Brooklyn Park W-E P-1,270530360,Brooklyn Park W-E P-4
+270530345,Brooklyn Park W-E P-1,270530350,Brooklyn Park W-E P-2
+270530350,Brooklyn Park W-E P-2,270530360,Brooklyn Park W-E P-4
+270530350,Brooklyn Park W-E P-2,270530355,Brooklyn Park W-E P-3
+270530355,Brooklyn Park W-E P-3,270530360,Brooklyn Park W-E P-4
+270530355,Brooklyn Park W-E P-3,270034820,Fridley W-3 P-2
+270530355,Brooklyn Park W-E P-3,270034830,Fridley W-3 P-3
+270034820,Fridley W-3 P-2,270034830,Fridley W-3 P-3
+270034840,Fridley W-3 P-4,270531515,Minneapolis W-4 P-3
+270034840,Fridley W-3 P-4,270531510,Minneapolis W-4 P-2
+270034840,Fridley W-3 P-4,270531360,Minneapolis W-1 P-1
+270034830,Fridley W-3 P-3,270034840,Fridley W-3 P-4
+270530205,Brooklyn Center P-2,270530220,Brooklyn Center P-5
+270530205,Brooklyn Center P-2,270530215,Brooklyn Center P-4
+270530205,Brooklyn Center P-2,270034840,Fridley W-3 P-4
+270530205,Brooklyn Center P-2,270530210,Brooklyn Center P-3
+270530210,Brooklyn Center P-3,270530215,Brooklyn Center P-4
+270530210,Brooklyn Center P-3,270530345,Brooklyn Park W-E P-1
+270530210,Brooklyn Center P-3,270530350,Brooklyn Park W-E P-2
+270530210,Brooklyn Center P-3,270530355,Brooklyn Park W-E P-3
+270530210,Brooklyn Center P-3,270034840,Fridley W-3 P-4
+270530210,Brooklyn Center P-3,270034830,Fridley W-3 P-3
+270531530,Minneapolis W-4 P-6,270531545,Minneapolis W-4 P-9
+270531515,Minneapolis W-4 P-3,270531530,Minneapolis W-4 P-6
+270531510,Minneapolis W-4 P-2,270531515,Minneapolis W-4 P-3
+270531360,Minneapolis W-1 P-1,270531530,Minneapolis W-4 P-6
+270531360,Minneapolis W-1 P-1,270531515,Minneapolis W-4 P-3
+270531360,Minneapolis W-1 P-1,270531395,Minneapolis W-1 P-8
+271710085,Franklin Twp.,271710150,Rockford Twp.
+271710085,Franklin Twp.,271710145,Rockford
+271710085,Franklin Twp.,270531050,Greenfield P-1
+271710085,Franklin Twp.,270531150,Independence P-1
+271710075,Delano,271710085,Franklin Twp.
+271710075,Delano,270531150,Independence P-1
+270532695,Rockford P-1,271710150,Rockford Twp.
+270531395,Minneapolis W-1 P-8,270531530,Minneapolis W-4 P-6
+270531395,Minneapolis W-1 P-8,270531490,Minneapolis W-3 P-7
+270531535,Minneapolis W-4 P-7,270532655,Robbinsdale W-2
+270531535,Minneapolis W-4 P-7,270531540,Minneapolis W-4 P-8
+270531535,Minneapolis W-4 P-7,270531545,Minneapolis W-4 P-9
+270531520,Minneapolis W-4 P-4,270532655,Robbinsdale W-2
+270531520,Minneapolis W-4 P-4,270531535,Minneapolis W-4 P-7
+270531520,Minneapolis W-4 P-4,270531525,Minneapolis W-4 P-5
+270531505,Minneapolis W-4 P-1,270531515,Minneapolis W-4 P-3
+270531505,Minneapolis W-4 P-1,270531510,Minneapolis W-4 P-2
+270531505,Minneapolis W-4 P-1,270531520,Minneapolis W-4 P-4
+270531505,Minneapolis W-4 P-1,270531525,Minneapolis W-4 P-5
+270531525,Minneapolis W-4 P-5,270531530,Minneapolis W-4 P-6
+270531525,Minneapolis W-4 P-5,270531535,Minneapolis W-4 P-7
+270531525,Minneapolis W-4 P-5,270531545,Minneapolis W-4 P-9
+270530200,Brooklyn Center P-1,270530225,Brooklyn Center P-6
+270530200,Brooklyn Center P-1,270034840,Fridley W-3 P-4
+270530200,Brooklyn Center P-1,270530205,Brooklyn Center P-2
+270530200,Brooklyn Center P-1,270531510,Minneapolis W-4 P-2
+270530200,Brooklyn Center P-1,270531505,Minneapolis W-4 P-1
+271710145,Rockford,270532695,Rockford P-1
+271710145,Rockford,271710150,Rockford Twp.
+270531050,Greenfield P-1,270532695,Rockford P-1
+270531050,Greenfield P-1,271710150,Rockford Twp.
+270531050,Greenfield P-1,271710145,Rockford
+270531050,Greenfield P-1,270531150,Independence P-1
+270530505,Corcoran P-2,270531290,Maple Grove P-21
+270530505,Corcoran P-2,270531050,Greenfield P-1
+270530505,Corcoran P-2,270531285,Maple Grove P-20
+270530505,Corcoran P-2,270531355,Medina P-1B
+270530505,Corcoran P-2,270531350,Medina P-1A
+270531285,Maple Grove P-20,270531290,Maple Grove P-21
+270531280,Maple Grove P-19,270531285,Maple Grove P-20
+270531275,Maple Grove P-18,270531290,Maple Grove P-21
+270531275,Maple Grove P-18,270531295,Maple Grove P-22
+270531275,Maple Grove P-18,270531285,Maple Grove P-20
+270531275,Maple Grove P-18,270531280,Maple Grove P-19
+270531270,Maple Grove P-17,270531295,Maple Grove P-22
+270531270,Maple Grove P-17,270531275,Maple Grove P-18
+270531270,Maple Grove P-17,270531300,Maple Grove P-23
+270531245,Maple Grove P-12,270531265,Maple Grove P-16
+270531245,Maple Grove P-12,270531260,Maple Grove P-15
+270531245,Maple Grove P-12,270531255,Maple Grove P-14
+270531245,Maple Grove P-12,270531250,Maple Grove P-13
+270530420,Brooklyn Park W-W P-6,270531245,Maple Grove P-12
+270530315,Brooklyn Park W-C P-4,270530415,Brooklyn Park W-W P-5
+270530315,Brooklyn Park W-C P-4,270530420,Brooklyn Park W-W P-6
+270530300,Brooklyn Park W-C P-1,270530415,Brooklyn Park W-W P-5
+270530300,Brooklyn Park W-C P-1,270530315,Brooklyn Park W-C P-4
+270530300,Brooklyn Park W-C P-1,270530305,Brooklyn Park W-C P-2
+270530305,Brooklyn Park W-C P-2,270530315,Brooklyn Park W-C P-4
+270530305,Brooklyn Park W-C P-2,270530310,Brooklyn Park W-C P-3
+270530310,Brooklyn Park W-C P-3,270530345,Brooklyn Park W-E P-1
+270531300,Maple Grove P-23,270532495,Plymouth W-4 P-20
+270531300,Maple Grove P-23,270532500,Plymouth W-4 P-21
+270531300,Maple Grove P-23,270532405,Plymouth W-1 P-2
+270531355,Medina P-1B,270532420,Plymouth W-1 P-5
+270531355,Medina P-1B,270532400,Plymouth W-1 P-1
+270531355,Medina P-1B,270532430,Plymouth W-1 P-7
+270532455,Plymouth W-2 P-12,270532460,Plymouth W-2 P-13
+270532455,Plymouth W-2 P-12,270532440,Plymouth W-2 P-9
+270532460,Plymouth W-2 P-13,270532465,Plymouth W-2 P-14
+270532430,Plymouth W-1 P-7,270532440,Plymouth W-2 P-9
+270532430,Plymouth W-1 P-7,270532445,Plymouth W-2 P-10
+270532445,Plymouth W-2 P-10,270532450,Plymouth W-2 P-11
+270532445,Plymouth W-2 P-10,270532460,Plymouth W-2 P-13
+270532445,Plymouth W-2 P-10,270532440,Plymouth W-2 P-9
+270531150,Independence P-1,270531335,Maple Plain P-1
+270531150,Independence P-1,270532370,Orono P-4
+270531150,Independence P-1,270531350,Medina P-1A
+270531335,Maple Plain P-1,270531350,Medina P-1A
+270532370,Orono P-4,270532455,Plymouth W-2 P-12
+270532370,Orono P-4,270532440,Plymouth W-2 P-9
+270531170,Loretto P-1,270531350,Medina P-1A
+270531350,Medina P-1A,270531355,Medina P-1B
+270531350,Medina P-1A,270532440,Plymouth W-2 P-9
+270531350,Medina P-1A,270532430,Plymouth W-1 P-7
+270531350,Medina P-1A,270532370,Orono P-4
+270532355,Orono P-1,270532370,Orono P-4
+270531160,Long Lake P-1,270532370,Orono P-4
+270531160,Long Lake P-1,270532355,Orono P-1
+270532485,Plymouth W-3 P-18,270532490,Plymouth W-3 P-19
+270532470,Plymouth W-3 P-15,270532485,Plymouth W-3 P-18
+270532470,Plymouth W-3 P-15,270532475,Plymouth W-3 P-16
+270532470,Plymouth W-3 P-15,270532490,Plymouth W-3 P-19
+270532470,Plymouth W-3 P-15,270532505,Plymouth W-4 P-22
+270532475,Plymouth W-3 P-16,270532510,Plymouth W-4 P-23
+270532475,Plymouth W-3 P-16,270532520,Plymouth W-4 P-25
+270532475,Plymouth W-3 P-16,270532490,Plymouth W-3 P-19
+270532475,Plymouth W-3 P-16,270532480,Plymouth W-3 P-17
+270532475,Plymouth W-3 P-16,270532505,Plymouth W-4 P-22
+270531345,Medicine Lake P-1,270532475,Plymouth W-3 P-16
+270531345,Medicine Lake P-1,270532490,Plymouth W-3 P-19
+270532480,Plymouth W-3 P-17,270532520,Plymouth W-4 P-25
+270532480,Plymouth W-3 P-17,270532490,Plymouth W-3 P-19
+270531020,Golden Valley P-7,270532490,Plymouth W-3 P-19
+270531020,Golden Valley P-7,270532290,New Hope P-1
+270531020,Golden Valley P-7,270531025,Golden Valley P-8
+270531020,Golden Valley P-7,270532295,New Hope P-2
+270532290,New Hope P-1,270532305,New Hope P-3S
+270532290,New Hope P-1,270532480,Plymouth W-3 P-17
+270532290,New Hope P-1,270532295,New Hope P-2
+270532505,Plymouth W-4 P-22,270532510,Plymouth W-4 P-23
+270532330,New Hope P-7,270532335,New Hope P-8
+270532330,New Hope P-7,270532500,Plymouth W-4 P-21
+270530395,Brooklyn Park W-W P-1,270530400,Brooklyn Park W-W P-2
+270530395,Brooklyn Park W-W P-1,270531250,Maple Grove P-13
+270530395,Brooklyn Park W-W P-1,270531245,Maple Grove P-12
+270530395,Brooklyn Park W-W P-1,270530420,Brooklyn Park W-W P-6
+270531025,Golden Valley P-8,270532485,Plymouth W-3 P-18
+270531025,Golden Valley P-8,270532490,Plymouth W-3 P-19
+270531010,Golden Valley P-5,270531015,Golden Valley P-6
+270531010,Golden Valley P-5,270531025,Golden Valley P-8
+270532295,New Hope P-2,270532310,New Hope P-4
+270532295,New Hope P-2,270532315,New Hope P-5
+270531570,Minneapolis W-5 P-4,270531580,Minneapolis W-5 P-6
+270531570,Minneapolis W-5 P-4,270531585,Minneapolis W-5 P-7
+270531580,Minneapolis W-5 P-6,270531585,Minneapolis W-5 P-7
+270531580,Minneapolis W-5 P-6,270531675,Minneapolis W-7 P-7
+270531580,Minneapolis W-5 P-6,270531595,Minneapolis W-5 P-9
+270531585,Minneapolis W-5 P-7,270531595,Minneapolis W-5 P-9
+270531555,Minneapolis W-5 P-1,270532675,Robbinsdale W-4
+270531555,Minneapolis W-5 P-1,270531570,Minneapolis W-5 P-4
+270531555,Minneapolis W-5 P-1,270531565,Minneapolis W-5 P-3
+270531555,Minneapolis W-5 P-1,270531590,Minneapolis W-5 P-8
+270531540,Minneapolis W-4 P-8,270532675,Robbinsdale W-4
+270531540,Minneapolis W-4 P-8,270532655,Robbinsdale W-2
+270531540,Minneapolis W-4 P-8,270531555,Minneapolis W-5 P-1
+270531540,Minneapolis W-4 P-8,270531590,Minneapolis W-5 P-8
+270531540,Minneapolis W-4 P-8,270531560,Minneapolis W-5 P-2
+270531540,Minneapolis W-4 P-8,270531545,Minneapolis W-4 P-9
+270531565,Minneapolis W-5 P-3,270531570,Minneapolis W-5 P-4
+270531565,Minneapolis W-5 P-3,270531585,Minneapolis W-5 P-7
+270531565,Minneapolis W-5 P-3,270531590,Minneapolis W-5 P-8
+270531565,Minneapolis W-5 P-3,270531575,Minneapolis W-5 P-5
+270531575,Minneapolis W-5 P-5,270531585,Minneapolis W-5 P-7
+270531575,Minneapolis W-5 P-5,270531595,Minneapolis W-5 P-9
+270531600,Minneapolis W-5 P-10,270531565,Minneapolis W-5 P-3
+270531600,Minneapolis W-5 P-10,270531590,Minneapolis W-5 P-8
+270531600,Minneapolis W-5 P-10,270531575,Minneapolis W-5 P-5
+270531600,Minneapolis W-5 P-10,270531560,Minneapolis W-5 P-2
+270531560,Minneapolis W-5 P-2,270531590,Minneapolis W-5 P-8
+270531550,Minneapolis W-4 P-10,270531540,Minneapolis W-4 P-8
+270531550,Minneapolis W-4 P-10,270531560,Minneapolis W-5 P-2
+270531550,Minneapolis W-4 P-10,270531545,Minneapolis W-4 P-9
+270531500,Minneapolis W-3 P-9,270531575,Minneapolis W-5 P-5
+270531500,Minneapolis W-3 P-9,270531600,Minneapolis W-5 P-10
+270531500,Minneapolis W-3 P-9,270531595,Minneapolis W-5 P-9
+270531595,Minneapolis W-5 P-9,270531675,Minneapolis W-7 P-7
+270531495,Minneapolis W-3 P-8,270531600,Minneapolis W-5 P-10
+270531495,Minneapolis W-3 P-8,270531560,Minneapolis W-5 P-2
+270531495,Minneapolis W-3 P-8,270531500,Minneapolis W-3 P-9
+270531490,Minneapolis W-3 P-7,270531530,Minneapolis W-4 P-6
+270531490,Minneapolis W-3 P-7,270531550,Minneapolis W-4 P-10
+270531490,Minneapolis W-3 P-7,270531545,Minneapolis W-4 P-9
+270531490,Minneapolis W-3 P-7,270531495,Minneapolis W-3 P-8

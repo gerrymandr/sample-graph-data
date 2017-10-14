@@ -33,3 +33,13 @@ Census Tracts
 - Shapefile: [tracts2010-slice.zip](tracts2010-slice.zip)
 
 ![Minnesota Tracts Graph](tracts2010-graph.png)
+
+Voter Tabulation Districts
+---
+
+- Size: 133 units, 334 edges
+- ID field: `VTD`
+- Adjacency list: [vtd2010-graph.csv](vtd2010-graph.csv)
+- Shapefile: [vtd2010-slice.zip](vtd2010-slice.zip)
+
+![Minnesota VTD Graph](vtd2010-graph.png)
