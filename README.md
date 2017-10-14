@@ -22,4 +22,14 @@ Minor Civil Divisions
 - Adjacency list: [mcd2010-graph.csv](mcd2010-graph.csv)
 - Shapefile: [mcd2010-slice.zip](mcd2010-slice.zip)
 
-![Minnesota Tracts Graph](mcd2010-graph.png)
+![Minnesota MCDs Graph](mcd2010-graph.png)
+
+Census Tracts
+---
+
+- Size: 94 units, 228 edges
+- ID field: `TRACT`
+- Adjacency list: [tracts2010-graph.csv](tracts2010-graph.csv)
+- Shapefile: [tracts2010-slice.zip](tracts2010-slice.zip)
+
+![Minnesota Tracts Graph](tracts2010-graph.png)
