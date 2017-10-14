@@ -1,0 +1,47 @@
+MCD1,NAME1,MCD2,NAME2
+2717155006,Rockford City,2717155024,Rockford Township
+2705325622,Greenfield City,2717155006,Rockford City
+2705325622,Greenfield City,2705355006,Rockford City
+2705325622,Greenfield City,2717155024,Rockford Township
+2705325622,Greenfield City,2705330842,Independence City
+2705324308,Golden Valley City,2705354808,Robbinsdale City
+2705324308,Golden Valley City,2705343000,Minneapolis City
+2705324308,Golden Valley City,2705351730,Plymouth City
+2705324308,Golden Valley City,2705345628,New Hope City
+2705313168,Corcoran City,2705325622,Greenfield City
+2705313168,Corcoran City,2705340166,Maple Grove City
+2705313168,Corcoran City,2705341480,Medina City
+2705340166,Maple Grove City,2705341480,Medina City
+2705340166,Maple Grove City,2705351730,Plymouth City
+2705307966,Brooklyn Park City,2705340166,Maple Grove City
+2705307966,Brooklyn Park City,2700322814,Fridley City
+2705307966,Brooklyn Park City,2705345628,New Hope City
+2705307966,Brooklyn Park City,2705314158,Crystal City
+2700322814,Fridley City,2705343000,Minneapolis City
+2705307948,Brooklyn Center City,2705354808,Robbinsdale City
+2705307948,Brooklyn Center City,2705307966,Brooklyn Park City
+2705307948,Brooklyn Center City,2700322814,Fridley City
+2705307948,Brooklyn Center City,2705343000,Minneapolis City
+2705307948,Brooklyn Center City,2705314158,Crystal City
+2705343000,Minneapolis City,2705354808,Robbinsdale City
+2717122400,Franklin Township,2717155006,Rockford City
+2717122400,Franklin Township,2705325622,Greenfield City
+2717122400,Franklin Township,2717155024,Rockford Township
+2717122400,Franklin Township,2705330842,Independence City
+2717115454,Delano City,2717122400,Franklin Township
+2717115454,Delano City,2705330842,Independence City
+2705355006,Rockford City,2717155024,Rockford Township
+2705330842,Independence City,2705340256,Maple Plain City
+2705330842,Independence City,2705348580,Orono City
+2705330842,Independence City,2705341480,Medina City
+2705340256,Maple Plain City,2705341480,Medina City
+2705348580,Orono City,2705351730,Plymouth City
+2705338222,Loretto City,2705341480,Medina City
+2705338006,Long Lake City,2705348580,Orono City
+2705341480,Medina City,2705348580,Orono City
+2705341480,Medina City,2705351730,Plymouth City
+2705341462,Medicine Lake City,2705351730,Plymouth City
+2705345628,New Hope City,2705351730,Plymouth City
+2705314158,Crystal City,2705354808,Robbinsdale City
+2705314158,Crystal City,2705324308,Golden Valley City
+2705314158,Crystal City,2705345628,New Hope City

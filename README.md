@@ -14,4 +14,12 @@ tabulation districts (VTDs), and Census blocks. Raw data and adjacency lists
 for graph representations are included for each. Each includes demographic and
 race data [detailed in _metadata_](http://www.gis.leg.mn/metadata/redist2010.htm).
 
-![Minnesota Tracts Graph](MN-tracts-graph.png)
+Minor Civil Divisions
+---
+
+- Size: 24 units, 46 edges
+- ID field: `MCD`
+- Adjacency list: [mcd2010-graph.csv](mcd2010-graph.csv)
+- Shapefile: [mcd2010-slice.zip](mcd2010-slice.zip)
+
+![Minnesota Tracts Graph](mcd2010-graph.png)
