@@ -21,6 +21,7 @@ Minor Civil Divisions
 - ID field: `MCD`
 - Adjacency list: [mcd2010-graph.csv](mcd2010-graph.csv)
 - Shapefile: [mcd2010-slice.zip](mcd2010-slice.zip)
+- CSV: [mcd2010-slice.csv](mcd2010-slice.csv)
 
 ![Minnesota MCDs Graph](mcd2010-graph.png)
 
@@ -31,6 +32,7 @@ Census Tracts
 - ID field: `TRACT`
 - Adjacency list: [tracts2010-graph.csv](tracts2010-graph.csv)
 - Shapefile: [tracts2010-slice.zip](tracts2010-slice.zip)
+- CSV: [tracts2010-slice.csv](tracts2010-slice.csv)
 
 ![Minnesota Tracts Graph](tracts2010-graph.png)
 
@@ -41,6 +43,7 @@ Voter Tabulation Districts
 - ID field: `VTD`
 - Adjacency list: [vtd2010-graph.csv](vtd2010-graph.csv)
 - Shapefile: [vtd2010-slice.zip](vtd2010-slice.zip)
+- CSV: [vtd2010-slice.csv](vtd2010-slice.csv)
 
 ![Minnesota VTD Graph](vtd2010-graph.png)
 
@@ -51,5 +54,6 @@ Census Blocks
 - ID field: `BLOCK`
 - Adjacency list: [blk2010-graph.csv](blk2010-graph.csv)
 - Shapefile: [blk2010-slice.zip](blk2010-slice.zip)
+- CSV: [blk2010-slice.csv.gz](blk2010-slice.csv.gz)
 
 ![Minnesota Blocks Graph](blk2010-graph.png)
