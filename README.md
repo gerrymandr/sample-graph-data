@@ -70,3 +70,17 @@ Census Blocks
 - CSV: [blk2010-slice.csv.gz](blk2010-slice.csv.gz)
 
 ![Minnesota Blocks Graph](blk2010-graph.png)
+
+Enumerating Partitioning Schemes
+===
+We used the [python-igraph](http://igraph.org/python/) in order to prototype enumerating possible partitioning schemes. See the [generate_partitions.py](generate_partitions.py) file for doing this enumeration:
+
+    $ python generate_partitions.py mcd2010-slice.csv mcd2010-graph.csv 
+    Number of partitions: 5
+    [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+    [1, 2, 2, 2, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+    [1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+    [1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+    [1, 2, 2, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+
+Each of these lines corresponds to a partitioning of the MCD's in the input files, which can then be visualized by editing [maps.html](maps.html).
