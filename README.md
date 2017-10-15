@@ -9,6 +9,14 @@ with a mix of urban, rural, white, non-white, conservative, and liberal voters.
 
 ![Minnesota Sample Area](MN-sample-data.png)
 
+See [an interactive map of demographics and voting patterns](http://bl.ocks.org/migurski/raw/ac29249b3c7bf7a481d8cf5a4ea52991/)
+(source code in `map.html`).
+
+[![Interactive map of demographics and voting patterns](map.png)](http://bl.ocks.org/migurski/raw/ac29249b3c7bf7a481d8cf5a4ea52991/)
+
+Layers
+===
+
 Four layers are included: minor civil divisions (MCDs), Census tracts, voter
 tabulation districts (VTDs), and Census blocks. Raw data and adjacency lists
 for graph representations are included for each. Each includes demographic and
