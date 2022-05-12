@@ -1,5 +1,0 @@
-CC0: https://creativecommons.org/publicdomain/zero/1.0/
-
-To the extent possible under law, contributors have waived all copyright and
-related or neighboring rights to Sample Electoral Data. This work is published
-from the United States.
